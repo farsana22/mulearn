@@ -136,7 +136,7 @@ const LearningCircleLandingPage = () => {
                                                                     `/dashboard/learning-circle/dashboard/${circle.id}`
                                                                 );
                                                             }}
-                                                        >
+                                                        > 
                                                             <BsChevronRight />
                                                         </PowerfulButton>
                                                     </div>
